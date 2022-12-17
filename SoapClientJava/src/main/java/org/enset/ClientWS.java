@@ -1,4 +1,4 @@
-package me.elmajni;
+package org.enset;
 
 import proxy.BanqueService;
 import proxy.BanqueWS;
